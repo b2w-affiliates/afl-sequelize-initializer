@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-initializer",
+  "name": "afl-sequelize-initializer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
